@@ -43,3 +43,4 @@ plugins:
 #   - vendor/ruby/
 theme: jekyll-theme-console
 
+style: dark
