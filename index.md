@@ -7,7 +7,7 @@ title: soFrida - APIBleed
 ---
 
 TESTTEST
-<img src="{{site.url}}{{site.baseurl}}/assets/images/explain.png" alt="Explain">
+<img src="assets/images/explain.png" alt="Explain">
 
 {% for post in site.posts %}
   <div id="post-short">
