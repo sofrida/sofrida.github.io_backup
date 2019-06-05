@@ -1,13 +1,14 @@
 ---
 layout: default
-title: 
+title: How to request a detailed report by email?
 permalink: /contact/
 ---
 
-# How to request a detailed report by email?
 We do not provide detailed vulnerability report unless developers are identified.
 
-If you want to know the details of the vulnerability, **please contact us through the developer's e-mail address registered in the App Store**.
+If you want to know the details of the vulnerability, 
+
+**please contact us through the developer's e-mail address registered in the App Store.**
 
 Following information as contained in the form below will be helpful for you.
 
