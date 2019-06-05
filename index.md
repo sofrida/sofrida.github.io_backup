@@ -7,8 +7,9 @@ title: soFrida - APIBleed
 ---
 
 TESTTEST
+<p align="center">
 <img src="assets/images/explain.png" alt="Explain">
-
+</p>
 {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
