@@ -6,11 +6,11 @@ layout: default
 title: soFrida - APIBleed
 ---
 
-TESTTEST
+This will be updated by next weekend
 <p align="center">
 <img src="assets/images/explain.png" alt="Explain">
 </p>
-{% for post in site.posts %}
+<!-- {% for post in site.posts %}
   <div id="post-short">
     <a href="{{site.url}}{{site.baseurl}}{{post.url}}">
       <h3>{{post.title}}</h3>
@@ -24,4 +24,4 @@ TESTTEST
       {% endif %}
     </p>
   </div>
-{% endfor %}
+{% endfor %} -->
