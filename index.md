@@ -8,7 +8,7 @@ title: soFrida - APIBleed
 
 This will be updated by next weekend
 <p align="center">
-<img src="assets/images/explain.png" alt="Explain">
+<img src="assets/images/explain.png" width="100%" alt="Explain">
 </p>
 <!-- {% for post in site.posts %}
   <div id="post-short">
